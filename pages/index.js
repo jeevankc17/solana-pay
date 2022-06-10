@@ -2,7 +2,7 @@ import React from "react";
 import HeadComponent from '../components/Head';
 
 // Constants
-const TWITTER_HANDLE = "_buildspace";
+const TWITTER_HANDLE = "InternshipForYou";
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
 
 const App = () => {
@@ -13,7 +13,7 @@ const App = () => {
       <HeadComponent/>
       <div className="container">
         <header className="header-container">
-          <p className="header"> 😳 Buildspace Emoji Store 😈</p>
+          <p className="header"> 😳 Our Emoji Store 😈</p>
           <p className="sub-text">The only emoji store that accepts sh*tcoins</p>
         </header>
 
